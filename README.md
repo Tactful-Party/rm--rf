@@ -5,7 +5,7 @@ ZeroT is a lightweight, AI-driven cybersecurity readiness assistant designed spe
 This project provides a premium MVP landing page that explains the value proposition, highlights the core workflows, and features an integrated Gemini-powered Q&A Assistant.
 
 ## Live Demo
-🚀 **[View Live Site](https://rm-rf-lovat.vercel.app)**
+🚀 **[View Live Site](https://zerot.vercel.app)**
 
 ## Features
 
